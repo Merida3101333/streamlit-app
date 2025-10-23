@@ -1,0 +1,7 @@
+pos,tensor_zone,arima_zone,lstm_zone,zone_id
+1,A,1,0,186
+2,B,2,1,100
+3,C,3,2,230
+4,D,4,3,161
+5,E,5,4,162
+6,F,6,5,163
